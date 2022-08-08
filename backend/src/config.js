@@ -38,7 +38,9 @@ const format = {
   smoothing: false,
 };
 
-const extraMetadata = {};
+const extraMetadata = {
+  external_url: "https://mrcryptopatel.xyz"
+};
 
 // NFTPort Info
 
