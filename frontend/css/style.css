@@ -8,11 +8,11 @@
   --font-primary: 'Oleo Script Swash Caps', cursive;
   --font-secondary: 'Mouse Memoirs', sans-serif;
   --font-code: 'Oswald', sans-serif;
-  --bg-color: #A9A9A9;
-  --bg-color-transparent: #A9A9A980;
-  --font-color:#F0F8FF;
-  --btn-bg-color:#FFE4C4;
-  --accent-color: #DEB887;
+  --bg-color: #FFFFFF;
+  --bg-color-transparent: #FFFFFF80;
+  --font-color:#000000;
+  --btn-bg-color:#8ed3d3;
+  --accent-color: #2F4F4F;
   --header-shadow: var(--accent-color) 0px 0px 5px;
   --card-shadow: var(--accent-color) 0px 0px 20px;
 }
