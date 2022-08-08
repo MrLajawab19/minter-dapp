@@ -9,10 +9,10 @@
   --font-secondary: 'Mouse Memoirs', sans-serif;
   --font-code: 'Oswald', sans-serif;
   --bg-color: #1fa4cc;
-  --bg-color-transparent: #1fa4cc80;
+  --bg-color-transparent: #1baad580;
   --font-color:#000000;
-  --btn-bg-color:#5ad4c0;
-  --accent-color:#29eea6;
+  --btn-bg-color:#36dabf;
+  --accent-color:#206ce6;
   --header-shadow: var(--accent-color) 0px 0px 5px;
   --card-shadow: var(--accent-color) 0px 0px 20px;
 }
