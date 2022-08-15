@@ -1,17 +1,18 @@
 /* FONTS */
 
-@import url("https://fonts.googleapis.com/css2?family=Arvo:ital,wght@0,400;0,700;1,400;1,700&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap"); 
+/*@import url("https://fonts.googleapis.com/css2?family=Arvo:ital,wght@0,400;0,700;1,400;1,700&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap");*/
+@import url('https://fonts.googleapis.com/css2?family=Heebo&family=Merriweather:ital@1&family=Oswald&display=swap');
 /* GLOBAL STYLES */
 
 :root {
-  --font-primary: 'Poppins' , serif ;
-  --font-secondary: 'Arvo', sans-serif;
-  --font-code: 'Roboto', sans-serif;
-  --bg-color: #5b6d7f;
-  --bg-color-transparent: #5b6d7f80;
+  --font-primary: 'Merriweather', serif;
+  --font-secondary: 'Heebo', sans-serif;
+  --font-code: 'Oswald', sans-serif;
+  --bg-color: #E6DADA;
+  --bg-color-transparent: #E6DADA80;
   --font-color:#ffffff;
-  --btn-bg-color:#4b4b4b;
-  --accent-color:#2c2c2c;
+  --btn-bg-color:#aca2a2;
+  --accent-color:#274046;
   --header-shadow: var(--accent-color) 0px 0px 5px;
   --card-shadow: var(--accent-color) 0px 0px 20px;
 }
