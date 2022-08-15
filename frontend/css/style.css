@@ -10,9 +10,9 @@
   --font-code: 'Oswald', sans-serif;
   --bg-color: #E6DADA;
   --bg-color-transparent: #E6DADA80;
-  --font-color:#ffffff;
+  --font-color:#000000;
   --btn-bg-color:#aca2a2;
-  --accent-color:#274046;
+  --accent-color:#908787;
   --header-shadow: var(--accent-color) 0px 0px 5px;
   --card-shadow: var(--accent-color) 0px 0px 20px;
 }
