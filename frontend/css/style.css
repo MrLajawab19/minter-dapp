@@ -8,8 +8,8 @@
   --font-primary: 'Merriweather', serif;
   --font-secondary: 'Heebo', sans-serif;
   --font-code: 'Oswald', sans-serif;
-  --background-image: linear-gradient(to right,#0F2027,#203A43,#2C5364);
-  --bg-color-transparent: linear-gradient(to right,#0F202780,#203A4380,#2C536480);
+  --background-image: linear-gradient(#0F2027,#203A43,#2C5364);
+  --bg-color-transparent: linear-gradient(#0F202780,#203A4380,#2C536480);
   --font-color:#ffffff;
   --btn-bg-color:#508aa3;
   --accent-color:#274d5d;
