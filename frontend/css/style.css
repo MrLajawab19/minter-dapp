@@ -8,11 +8,11 @@
   --font-primary: 'Merriweather', serif;
   --font-secondary: 'Heebo', sans-serif;
   --font-code: 'Oswald', sans-serif;
-  --bg-color: #E6DADA;
-  --bg-color-transparent: #E6DADA80;
-  --font-color:#000000;
-  --btn-bg-color:#aca2a2;
-  --accent-color:#908787;
+  --bg-color: linear-gradient(to right,#0F2027,#203A43,#2C5364);
+  --bg-color-transparent: linear-gradient(to right,#0F202780,#203A4380,#2C536480);
+  --font-color:#ffffff;
+  --btn-bg-color:#508aa3;
+  --accent-color:#274d5d;
   --header-shadow: var(--accent-color) 0px 0px 5px;
   --card-shadow: var(--accent-color) 0px 0px 20px;
 }
