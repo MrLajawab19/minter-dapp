@@ -8,11 +8,11 @@
   --font-primary: 'Merriweather', serif;
   --font-secondary: 'Heebo', sans-serif;
   --font-code: 'Oswald', sans-serif;
-  --bg-color:#9FA8A3;
-  --bg-color-transparent:#9FA8A380;
+  --bg-color:#8e9591;
+  --bg-color-transparent:#8E959180;
   --font-color:#ffffff;
-  --btn-bg-color:#737b77;
-  --accent-color:#737b77;
+  --btn-bg-color:#404442;
+  --accent-color:#777e7a;
   --header-shadow: var(--accent-color) 0px 0px 5px;
   --card-shadow: var(--accent-color) 0px 0px 20px;
 }
