@@ -8,7 +8,7 @@ const network = NETWORK.eth;
 
 // General metadata for Ethereum
 const namePrefix = "Mr Crypto Patel";
-const description = "Hii, I am Mr Patel ";
+const description = "Hii, I am Mr Patel , going to live on polygon blockchain forever ";
 const baseUri = "ipfs://NewUriToReplace"; // This will be replaced automatically
 
 const layerConfigurations = [
