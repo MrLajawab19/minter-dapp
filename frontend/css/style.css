@@ -8,11 +8,11 @@
   --font-primary: 'Merriweather', serif;
   --font-secondary: 'Heebo', sans-serif;
   --font-code: 'Oswald', sans-serif;
-  --bg-color:#203A43;
-  --bg-color-transparent:#203A4380;
-  --font-color:#dcdcdc;
-  --btn-bg-color:#2a637b;
-  --accent-color:#0F2027;
+  --bg-color:rgb(183, 225, 228);
+  --bg-color-transparent:rgba(183, 225, 228, 0.815);
+  --font-color:rgba(32, 33, 36, 1);
+  --btn-bg-color:rgba(93, 188, 194, 1);
+  --accent-color:rgb(72, 113, 116);
   --header-shadow: var(--accent-color) 0px 0px 5px;
   --card-shadow: var(--accent-color) 0px 0px 20px;
 }
