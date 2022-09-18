@@ -3,7 +3,7 @@ const chain = 'polygon'; // rinkeby, polygon, or ethereum
 
 const welcome_h1 = "Welcome to the Mr Crypto Patel NFT Project!!";
 const welcome_h2 = "Connect to MetaMask to Get Started";
-const welcome_p = 'The Mr Crypto Patel NFT Project is an unique collection of 10000 NFts cretaed by Mr Lajawab. "MrCP is a man who is loaded with money, have a nice looking face and a physique like a greek god." First 5000 Nfts are available for sale now and another 5000 will be availiable for sale on 19-09-2022.';
+const welcome_p = 'The Mr Crypto Patel NFT Project is an unique collection of 10000 NFts cretaed by Mr Lajawab. "MrCP is a man who is loaded with money, have a nice looking face and a physique like a greek god."';
 const h1_presale_coming_soon = "NFT Drop Coming Soon!!";
 const h1_presale_mint = "Pre-Sale Minting Open!!";
 const h1_public_mint = "Public Minting Open!!";
